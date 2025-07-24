@@ -42,3 +42,24 @@ a {
 ul {
     list-style-type: none;
 }
+
+/* my style starts from here*/
+.header {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+
+.left-side, .right-side {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
