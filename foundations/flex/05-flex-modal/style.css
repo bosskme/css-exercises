@@ -68,10 +68,8 @@ button.cancel {
   color: royalblue;
 }
 /*My Solution*/
-
 .modal {
   display: block;
-  gap: 16px;
   padding: 16px;
 }
 .head {
@@ -85,7 +83,7 @@ button.cancel {
 
 .message, .end {
   padding-left: 52px;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
 }
 
 .close-button {
